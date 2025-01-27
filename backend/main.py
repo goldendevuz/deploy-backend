@@ -35,7 +35,7 @@ app.add_middleware(
     allow_origins=[
         # "http://localhost:5173",
         # "35.207.203.72",
-        "https://fleekapi.uz/",
+        # "https://fleekapi.uz/",
     ],
     allow_credentials=True,
     allow_methods=["*"],
